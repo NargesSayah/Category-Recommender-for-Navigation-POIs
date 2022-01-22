@@ -9,3 +9,5 @@ During data preprocessing, I will detect duplicate rows and merge them into a mo
 For the locations in the dataset that are not categorized, this project aims to make category predictions. 
 To do this, I have used the Nearest Neighbor method, and results are evaluated By utilizing the HIT RATE metric.
 This project uses datasets provided by the Balad navigation app in Farsi.
+
+![](POI.png)
